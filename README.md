@@ -1,6 +1,6 @@
-# GEOS505: Research Computing in the Earth and Environmental Sciences (Fall 2022) at Boise State University
+# GEOS505: Research Computing in the Earth and Environmental Sciences 
 
-## Nicole Hucke 
+## Fall 2022 at Boise State University
 
-Email: [nicole-hucke@hotmail.com](nicole-hucke@hotmail.com)
+## Nicole Hucke - Email: [nicole-hucke@hotmail.com](mailto:nicole-hucke@hotmail.com)
 
