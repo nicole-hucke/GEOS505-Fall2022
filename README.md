@@ -14,6 +14,8 @@ My goals for the semester:
 2. Learn about new packages applied to earth and environmental sciences *and further apply it to my own research in the future*
 3. Connect with everyone else and have a better taste of collaborative work while using Git
 
+
 ![alt text](https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_403,q_75,w_604/v1/clients/newmexico/temp_a4719ddf-677e-4c80-9959-7d2125d529a5.jpg)
 
-Image: An aerial view of the Valles Caldera National Preserve (this river is not the one I am studying though!). Credits to: Photograph by NMTD.
+Image: An aerial view of the Valles Caldera National Preserve (this river is not the one I am studying though!). 
+Credits to: Photograph by NMTD.
