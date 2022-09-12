@@ -5,9 +5,9 @@
 ## Nicole Hucke - Email: [nicole-hucke@hotmail.com](mailto:nicole-hucke@hotmail.com)
 
 Research: 
-My research consists on studying the relationship between the onset of sediment motion and nutrient cycling. I look at the variations of critical shear stress in a mountain stream in New Mexico and take water samples through high flow events to evaluate the nutrient and sediment concentrations throughout different hydrographs. Additionally, I am studying the effects of hyporheic flow in fine sediment deposition mechanics, which could be a factor that influences the streambed sediment composition, hence the nutrient loads released during high flow events. 
+My research consists on studying the relationship between the onset of sediment motion and nutrient cycling. I look at the variations of critical shear stress in a mountain stream in New Mexico and take water samples through high flow events to evaluate the nutrient and suspended sediment concentrations throughout different hydrographs. Additionally, I am studying the effects of hyporheic flow in fine sediment deposition mechanics, which could be a factor that influences the streambed sediment composition, hence the nutrient loads released during high flow events. 
 
-Hopefully I will be using this class to process time series of temperature data at different subtrate depths as a tracer for hyporheic flux direction and magnitude. Additionally, I will have to conduct some signal processing on hydrophone recordings to correlate certain sound signals to transported grain sizes during a hydrograph.  
+Hopefully this class will help me learn and be more proficient at processing time series of temperature data at different subtrate depths as a tracer for hyporheic flux direction and magnitude. Additionally, I will have to conduct some signal processing on hydrophone recordings to correlate certain sound signals to transported grain sizes during a hydrograph. Either using existing packages or creating functions to do this would be extremely helpful!  
 
 My goals for the semester: 
 1. Enhance my coding skills *by being more proficient in troubleshooting, reading library documentation and getting used to backing my code up on GitHub*
